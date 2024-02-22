@@ -1,3 +1,7 @@
 .env
 labour_demand/datasets/
 
+ labour_demand/datasets/last_download_hh.csv
+ labour_demand/datasets/last_output_gpt_feb7.csv
+ labour_demand/datasets/vacancies_2024-02-20.csv
+ labour_demand/datasets/vacancies_from_hh_2_url.csv
