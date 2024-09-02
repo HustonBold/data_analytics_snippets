@@ -3,6 +3,6 @@
 Python and SQL script templates for various tasks (in progress)
 
 Contents:
-1) Example of an AB test 
-2) Example of a RFM analysis 
-3) SQL scripts for: countining new customers, calculating the amount of customers/revenue by spending segments (buckets), calculating rolling LTV
+1) Example of an AB test - AB_test_example_template/AB_test_exercise.ipynb
+3) Example of a RFM analysis 
+4) SQL scripts for: countining new customers, calculating the amount of customers/revenue by spending segments (buckets), calculating rolling LTV
